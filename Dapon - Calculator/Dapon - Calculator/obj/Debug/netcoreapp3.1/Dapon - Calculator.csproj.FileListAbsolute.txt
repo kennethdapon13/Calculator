@@ -1,0 +1,11 @@
+C:\Users\Divisions\source\repos\Dapon - Calculator\Dapon - Calculator\obj\Debug\netcoreapp3.1\Dapon - Calculator.csprojAssemblyReference.cache
+C:\Users\Divisions\source\repos\Dapon - Calculator\Dapon - Calculator\obj\Debug\netcoreapp3.1\Dapon - Calculator.AssemblyInfoInputs.cache
+C:\Users\Divisions\source\repos\Dapon - Calculator\Dapon - Calculator\obj\Debug\netcoreapp3.1\Dapon - Calculator.AssemblyInfo.cs
+C:\Users\Divisions\source\repos\Dapon - Calculator\Dapon - Calculator\bin\Debug\netcoreapp3.1\Dapon - Calculator.exe
+C:\Users\Divisions\source\repos\Dapon - Calculator\Dapon - Calculator\bin\Debug\netcoreapp3.1\Dapon - Calculator.deps.json
+C:\Users\Divisions\source\repos\Dapon - Calculator\Dapon - Calculator\bin\Debug\netcoreapp3.1\Dapon - Calculator.runtimeconfig.json
+C:\Users\Divisions\source\repos\Dapon - Calculator\Dapon - Calculator\bin\Debug\netcoreapp3.1\Dapon - Calculator.runtimeconfig.dev.json
+C:\Users\Divisions\source\repos\Dapon - Calculator\Dapon - Calculator\bin\Debug\netcoreapp3.1\Dapon - Calculator.dll
+C:\Users\Divisions\source\repos\Dapon - Calculator\Dapon - Calculator\bin\Debug\netcoreapp3.1\Dapon - Calculator.pdb
+C:\Users\Divisions\source\repos\Dapon - Calculator\Dapon - Calculator\obj\Debug\netcoreapp3.1\Dapon - Calculator.dll
+C:\Users\Divisions\source\repos\Dapon - Calculator\Dapon - Calculator\obj\Debug\netcoreapp3.1\Dapon - Calculator.pdb
